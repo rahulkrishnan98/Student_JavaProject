@@ -84,11 +84,7 @@ file : am.en.u4cse16251.zip(Attached below)
 
 Referred Websites 
 
-1] [ICT 
+1] [ICT social ](https://www.ict.social/java/oop/) : referred to diary project the OOP way
 
-social ](https://www.ict.social/java/oop/) : referred to diary project the OOP way
-
-2] [
-
-Javapoint ](https://www.javatpoint.com/)  : Concepts and workflow
+2] [ Javapoint ](https://www.javatpoint.com/)  : Concepts and workflow
 -- 
