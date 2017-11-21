@@ -77,14 +77,9 @@ We use the functionality of ArrayList to store objects into the File and access 
 Project Links 
 
 1] [Github repository](https://github.com/rahulkrishnan98/Student_JavaProject) 
-
-2] Zip 
-
-file : am.en.u4cse16251.zip(Attached below)
-
-Referred Websites 
+*Referred Websites*
 
 1] [ICT social ](https://www.ict.social/java/oop/) : referred to diary project the OOP way
 
 2] [ Javapoint ](https://www.javatpoint.com/)  : Concepts and workflow
--- 
+ 
